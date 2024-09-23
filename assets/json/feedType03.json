@@ -1,0 +1,46 @@
+{
+    "goods": [
+                {
+                  "linkURL": "https://www.musinsa.com/app/goods/1924274",
+                  "thumbnailURL": "https://image.msscdn.net/images/goods_img/20210428/1924274/1924274_17152551704806_320.jpg",
+                  "goodsNo": 1924274,
+                  "goodsName": "린넨 라이크 세미 와이드 밴딩 팬츠 세트",
+                  "brand": "suare",
+                  "brandName": "수아레",
+                  "normalPrice": 66000,
+                  "price": 49900,
+                  "saleRate": 24,
+                  "hasCoupon": false,
+                  "globalFilter": "A",
+                  "checkSoldOut": false
+                },
+                {
+                  "linkURL": "https://www.musinsa.com/app/goods/4064380",
+                  "thumbnailURL": "https://image.msscdn.net/images/goods_img/20240417/4064380/4064380_17147172015049_320.jpg",
+                  "goodsNo": 4064380,
+                  "goodsName": "에센셜 헨리넥 골지 반팔티_GREY",
+                  "brand": "citybreeze",
+                  "brandName": "시티브리즈 우먼",
+                  "normalPrice": 45000,
+                  "price": 38250,
+                  "saleRate": 15,
+                  "hasCoupon": false,
+                  "globalFilter": "F",
+                  "checkSoldOut": false
+                },
+                {
+                  "linkURL": "https://www.musinsa.com/app/goods/3844773",
+                  "thumbnailURL": "https://image.msscdn.net/images/goods_img/20240202/3844773/3844773_17068759633976_320.jpg",
+                  "goodsNo": 3844773,
+                  "goodsName": "셔링 반팔 티셔츠 [WHITE] / WBD1L01509",
+                  "brand": "generalideastandard",
+                  "brandName": "제너럴아이디어",
+                  "normalPrice": 47000,
+                  "price": 28000,
+                  "saleRate": 40,
+                  "hasCoupon": false,
+                  "globalFilter": "F",
+                  "checkSoldOut": false
+                }
+              ]
+}

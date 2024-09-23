@@ -1,0 +1,46 @@
+{
+    "goods": [
+        {
+            "linkURL": "https://www.musinsa.com/app/goods/4067611",
+            "thumbnailURL": "https://image.msscdn.net/images/goods_img/20240418/4067611/4067611_17144410506885_320.jpg",
+            "goodsNo": 4067611,
+            "goodsName": "카고 데님 미니 스커트 [VINTAGE BLUE]",
+            "brand": "leathery",
+            "brandName": "레더리",
+            "normalPrice": 71000,
+            "price": 42600,
+            "saleRate": 40,
+            "hasCoupon": false,
+            "globalFilter": "F",
+            "checkSoldOut": false
+        },
+        {
+            "linkURL": "https://www.musinsa.com/app/goods/3286317",
+            "thumbnailURL": "https://image.msscdn.net/images/goods_img/20230510/3286317/3286317_16836809468660_320.jpg",
+            "goodsNo": 3286317,
+            "goodsName": "RC RWL REC NYLON BALL CAP [GRAY]",
+            "brand": "reclow",
+            "brandName": "리끌로우",
+            "normalPrice": 32000,
+            "price": 28000,
+            "saleRate": 13,
+            "hasCoupon": false,
+            "globalFilter": "M",
+            "checkSoldOut": false
+        },
+        {
+            "linkURL": "https://www.musinsa.com/app/goods/4041743",
+            "thumbnailURL": "https://image.msscdn.net/images/goods_img/20240409/4041743/4041743_17137536511772_320.jpg",
+            "goodsNo": 4041743,
+            "goodsName": "버터플라이 미니백",
+            "brand": "jedrefeb",
+            "brandName": "제드레페브5",
+            "normalPrice": 88000,
+            "price": 88000,
+            "saleRate": 0,
+            "hasCoupon": false,
+            "globalFilter": "F",
+            "checkSoldOut": false
+        }
+        ]
+    }

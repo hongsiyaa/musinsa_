@@ -1,0 +1,47 @@
+{
+    "goods": [
+                {
+                  "linkURL": "https://www.musinsa.com/app/goods/4270592",
+                  "thumbnailURL": "https://image.msscdn.net/images/goods_img/20240724/4270592/4270592_17222304445446_320.jpg",
+                  "goodsNo": 4270592,
+                  "goodsName": "컨트리 II SMU - 크림:실버 / JH5600",
+                  "brand": "adidas",
+                  "brandName": "아디다스",
+                  "normalPrice": 139000,
+                  "price": 139000,
+                  "saleRate": 0,
+                  "hasCoupon": false,
+                  "globalFilter": "A",
+                  "checkSoldOut": false
+                },
+                {
+                  "linkURL": "https://www.musinsa.com/app/goods/4270593",
+                  "thumbnailURL": "https://image.msscdn.net/images/goods_img/20240724/4270593/4270593_17222304943541_320.jpg",
+                  "goodsNo": 4270593,
+                  "goodsName": "컨트리 II SMU - 블랙:실버 / JH5601",
+                  "brand": "adidas",
+                  "brandName": "아디다스",
+                  "normalPrice": 139000,
+                  "price": 139000,
+                  "saleRate": 0,
+                  "hasCoupon": false,
+                  "globalFilter": "A",
+                  "checkSoldOut": false
+                },
+                {
+                  "linkURL": "https://www.musinsa.com/app/goods/4270591",
+                  "thumbnailURL": "https://image.msscdn.net/images/goods_img/20240724/4270591/4270591_17222303864009_320.jpg",
+                  "goodsNo": 4270591,
+                  "goodsName": "컨트리 II SMU - 실버:크림 / JH5599",
+                  "brand": "adidas",
+                  "brandName": "아디다스",
+                  "normalPrice": 139000,
+                  "price": 139000,
+                  "saleRate": 0,
+                  "hasCoupon": false,
+                  "globalFilter": "A",
+                  "checkSoldOut": false
+                }
+              ]
+            
+}
